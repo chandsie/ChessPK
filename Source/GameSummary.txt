@@ -1,0 +1,5 @@
+1. wP g5 bP f4
+2. wP xf4 bK f2
+3. wB g7 bK g3
+4. wP xg3 wP g5
+5. bP f4 
